@@ -1,0 +1,15 @@
+C:\Project\redes-socket\Redes\SocketSender\bin\Release\net6.0\SocketSender.exe
+C:\Project\redes-socket\Redes\SocketSender\bin\Release\net6.0\SocketSender.deps.json
+C:\Project\redes-socket\Redes\SocketSender\bin\Release\net6.0\SocketSender.runtimeconfig.json
+C:\Project\redes-socket\Redes\SocketSender\bin\Release\net6.0\SocketSender.dll
+C:\Project\redes-socket\Redes\SocketSender\bin\Release\net6.0\SocketSender.pdb
+C:\Project\redes-socket\Redes\SocketSender\obj\Release\net6.0\SocketSender.csproj.AssemblyReference.cache
+C:\Project\redes-socket\Redes\SocketSender\obj\Release\net6.0\SocketSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\redes-socket\Redes\SocketSender\obj\Release\net6.0\SocketSender.AssemblyInfoInputs.cache
+C:\Project\redes-socket\Redes\SocketSender\obj\Release\net6.0\SocketSender.AssemblyInfo.cs
+C:\Project\redes-socket\Redes\SocketSender\obj\Release\net6.0\SocketSender.csproj.CoreCompileInputs.cache
+C:\Project\redes-socket\Redes\SocketSender\obj\Release\net6.0\SocketSender.dll
+C:\Project\redes-socket\Redes\SocketSender\obj\Release\net6.0\refint\SocketSender.dll
+C:\Project\redes-socket\Redes\SocketSender\obj\Release\net6.0\SocketSender.pdb
+C:\Project\redes-socket\Redes\SocketSender\obj\Release\net6.0\SocketSender.genruntimeconfig.cache
+C:\Project\redes-socket\Redes\SocketSender\obj\Release\net6.0\ref\SocketSender.dll

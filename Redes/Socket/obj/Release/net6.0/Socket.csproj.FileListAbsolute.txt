@@ -1,0 +1,15 @@
+C:\Project\redes-socket\Redes\Socket\bin\Release\net6.0\Socket.exe
+C:\Project\redes-socket\Redes\Socket\bin\Release\net6.0\Socket.deps.json
+C:\Project\redes-socket\Redes\Socket\bin\Release\net6.0\Socket.runtimeconfig.json
+C:\Project\redes-socket\Redes\Socket\bin\Release\net6.0\Socket.dll
+C:\Project\redes-socket\Redes\Socket\bin\Release\net6.0\Socket.pdb
+C:\Project\redes-socket\Redes\Socket\obj\Release\net6.0\Socket.csproj.AssemblyReference.cache
+C:\Project\redes-socket\Redes\Socket\obj\Release\net6.0\Socket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\redes-socket\Redes\Socket\obj\Release\net6.0\Socket.AssemblyInfoInputs.cache
+C:\Project\redes-socket\Redes\Socket\obj\Release\net6.0\Socket.AssemblyInfo.cs
+C:\Project\redes-socket\Redes\Socket\obj\Release\net6.0\Socket.csproj.CoreCompileInputs.cache
+C:\Project\redes-socket\Redes\Socket\obj\Release\net6.0\Socket.dll
+C:\Project\redes-socket\Redes\Socket\obj\Release\net6.0\refint\Socket.dll
+C:\Project\redes-socket\Redes\Socket\obj\Release\net6.0\Socket.pdb
+C:\Project\redes-socket\Redes\Socket\obj\Release\net6.0\Socket.genruntimeconfig.cache
+C:\Project\redes-socket\Redes\Socket\obj\Release\net6.0\ref\Socket.dll
