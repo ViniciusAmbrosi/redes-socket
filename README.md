@@ -11,10 +11,12 @@ This will create two images in docker for deployment, sourcing from either proje
 
 In order to get the program running you can:
 * To create image for socket server - docker build -t socket-server -f Dockerfile .  
-* Start socket server with: docker run -p 11000:11000 -it --rm socket-server
+* Start socket server with: docker run --network=host -it --rm socket-server
 * Run docker inspect --format '{{ .NetworkSettings.IPAddress }}' <cotainer-name> (you can find with docker ps -a)
 * Setup docker ip on socket client code if needed
 * Build socket client application
 * You can choose to run from host or another container:
-** another container - To create image for socket client - docker build -t socket-client -f Dockerfile .  
+** another container
+*** To create image for socket client - docker build -t socket-client -f Dockerfile .  
+*** Start socket client with: docker run -it --network=host --rm socket-client
 ** host machine - just run the dotnet program

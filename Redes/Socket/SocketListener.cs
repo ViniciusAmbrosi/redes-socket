@@ -18,7 +18,7 @@ public class SocketListener
         // Get Host IP Address that is used to establish a connection
         // In this case, we get one IP address of localhost that is IP : 127.0.0.1
         // If a host has multiple addresses, you will get a list of addresses
-        IPHostEntry host = Dns.GetHostEntry("172.17.0.2");
+        IPHostEntry host = Dns.GetHostEntry(Dns.GetHostName());
         IPAddress ipAddress = host.AddressList[0];
         IPEndPoint localEndPoint = new IPEndPoint(ipAddress, 11000);
 
