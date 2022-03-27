@@ -1,6 +1,6 @@
 # redes-socket
 
-Socket - Socket Server
+Socket - Socket Server  
 SocketSender - Socket Client
 
 Both projects contain a Dockerfile for creation and deployment if so desired.  
