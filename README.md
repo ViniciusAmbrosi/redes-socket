@@ -1,11 +1,8 @@
 # redes-socket
 
-Socket - Socket Server  
-SocketSender - Socket Client
-
 Both projects contain a Dockerfile for creation and deployment if so desired.  
-To create image for socket server - docker build -t socket-server -f Dockerfile .  
-To create image for socket client - docker build -t socket-client -f Dockerfile .  
+To create image for socket server. Go to Redes/SocketServer and run docker build -t socket-server -f Dockerfile .  
+To create image for socket client. Go to Redes/SocketClient and run docker build -t socket-client -f Dockerfile .  
 
 This will create two images in docker for deployment, sourcing from either projects.    
 
