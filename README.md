@@ -13,7 +13,7 @@ In order to get the program running you can:
 * Setup docker ip on socket client code if needed
 * Build socket client application
 * You can choose to run from host or another container:  
-** another container  
-*** To create image for socket client - docker build -t socket-client -f Dockerfile .  
-*** Start socket client with: docker run -it --network=host --rm socket-client  
-** host machine - just run the dotnet program
+  * another container  
+    * To create image for socket client - docker build -t socket-client -f Dockerfile .  
+    * Start socket client with: docker run -it --network=host --rm socket-client  
+  * host machine - just run the dotnet program
