@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Project\\redes-socket\\Redes\\SockerServer\\SocketServer.csproj",
+      "projectUniqueName": "C:\\Project\\redes-socket\\Redes\\SocketServer\\SocketServer.csproj",
       "projectName": "SocketServer",
-      "projectPath": "C:\\Project\\redes-socket\\Redes\\SockerServer\\SocketServer.csproj",
+      "projectPath": "C:\\Project\\redes-socket\\Redes\\SocketServer\\SocketServer.csproj",
       "packagesPath": "C:\\Users\\ambro\\.nuget\\packages\\",
-      "outputPath": "C:\\Project\\redes-socket\\Redes\\SockerServer\\obj\\",
+      "outputPath": "C:\\Project\\redes-socket\\Redes\\SocketServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ambro\\AppData\\Roaming\\NuGet\\NuGet.Config",
